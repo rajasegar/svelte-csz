@@ -1,6 +1,10 @@
-# New Project
+# svelte-csz
+
+Svelte app with [csz](https://github.com/lukejacksonn/csz) for styling.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+
+`csz` is Runtime CSS Modules with SASS like pre-processing using `stylis`.
 
 ## Available Scripts
 
